@@ -1,2 +1,5 @@
-# LanguageTranslationDemo
-This is a demo that shows the translation of spoken languages of different forms to their English equivalent in text format.
+# Language Translation Demo
+
+This is a console app demo showing the translation of spoken languages for different countries into their English equivalent in text format.
+Microsoft's Natural Language Processing(NLP) library was used for the project.
+
